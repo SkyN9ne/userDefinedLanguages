@@ -1,16 +1,22 @@
 version: 1.0.{build}
-image: Visual Studio 2019
+image: Visual Studio 2022
 
 
 environment:
   matrix:
-   - PYTHON: "C:\\Python39"
+   - PYTHON: "C:\\Python310"
 
 install:
     - SET PATH=%PYTHON%;%PYTHON%\Scripts;%PATH%
-    - python -m pip install requests jsonschema rfc3987 pywin32 lxml
+    - python -m pip install -r requirements.txt
 
 build_script:
     - cd "%APPVEYOR_BUILD_FOLDER%"
     - call python validator_xml.py
     - call python validator_json.py
+
+  after_build:
+    # artifacts
+    - ps: |
+          cd "$env:APPVEYOR_BUILD_FOLDER"
+          Push-AppveyorArtifact "udl-list.md" -FileName "udl-list.md"

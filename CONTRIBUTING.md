@@ -19,6 +19,7 @@ To be accepted, your submission _must_ meet the following **requirement**s and _
 4. **recommendation**: if your UDL file only contains one language, the `display-name` attribute in the JSON file (described below) should have the same value as the `<UserLang name="...">` inside your definition file.  This will keep the name in the **Language** menu the same as the name that was shown in the download tool (coming soon).
 5. **recommendation**: in your Pull Request, please provide a link to a public description of the language your UDL is based on (which will help to establish the general-interest nature of the UDL), as well as a link to an example file in that language (so that the UDL can be verified as functional).
    * If you have an example file, you can upload it to the `UDL-samples` folder of the repository. Please have this file use the same name as your UDL definition file, but with the appropriate file extension, rather than `.xml`.  Example: `UDLs\STL_udl.byPryrt.xml` would have a corresponding example file `UDL-samples\STL_udl.byPryrt.stl`.
+6. **recommendation**: if you have also created an [autoCompletion file](https://npp-user-manual.org/docs/auto-completion/) for your UDL, you may add it in the `autoCompletions` folder before you submit your PR, using a similar naming scheme to the UDL's XML filename. 
 
 ## Edit `udl-list.json`
 
@@ -35,10 +36,29 @@ When you make a submission, you should edit the [udl-list.json](https://github.c
 ## Edit `udl-list.md`
 
 [udl-list.md](https://github.com/notepad-plus-plus/userDefinedLanguages/blob/master/udl-list.md) is UDL user interface file which shows all available UDL files and their location (URL) so user can download needed UDL directly from it.
-* `Name` : The language name, it's not `id-name` but just language name with its download URL (Location + `id-name` + "xml" extension)
-* `Description` : The specification of this UDL.
-* `Author` : Auther name with `homepage` of author.
+* `Name` : The name of the UDL (based on the `display-name` attribute from above).  This should be input as a Markdown link to the main file: the text of the link should be the language name; the URL should point to the uploaded (or external) UDL XML file.
+* `Description` : The details of this UDL: most likely, the same as the `description` attribute from above.
+* `Author` : Author name.  If the `homepage` is known, the author's name should link to the `homepage` of the author.
 
 ## Validation
 
 The maintenance team will be checking the UDL file and both udl-list.json & udl-list.md or conformance to these requirements. By submitting the Pull Request, you are giving permission for edits to help it match the requirements. If you need help with the JSON, please ask for help in the Pull Request, and be willing and available to answer questions for clarifications so that you can be helped.
+
+## HOW TO Submit Pull Request
+
+Since many contributors are not GitHub experts, we have added in this section to make it easier for you to submit your files in a Pull Request (PR)
+
+0. Create a GitHub account 
+   - Without an account, you cannot submit a PR
+2. Create a **fork** of the userDefinedLanguages Collection
+   - Click the **Fork** label/icon from the [main UDL Collection page](https://github.com/notepad-plus-plus/userDefinedLanguages)
+   - ![image](https://user-images.githubusercontent.com/17455758/191838275-f4237476-0e99-45f7-8bc7-251e8936f1d3.png)
+   - If you already have a fork, use **Sync Fork > Update Branch** to make sure your fork is up-to-date with the main Collection
+3. Make your changes:
+   - Upload the UDL's XML file to the UDL folder _in your fork_, named per the rules defined above
+   - Edit the `udl-list.md` and `udl-list.json` _in your fork_, per the rules defined above
+4. Create a PR from your fork
+    - from your fork's master branch, after you've made the changes above,
+    - click the down arrow on **Contribute** 
+    - select **Open Pull Request**
+    - fill out your description for the PR, and submit the PR

@@ -360,6 +360,14 @@
 			"author": "Luis Pisco <mailto:lrodrig@ualg.pt>"
 		},
 		{
+			"id-name": "Cisco_IOS_Darkmode_by_YlloNieR",
+			"display-name": "Cisco IOS Darkmode",
+			"version": "2022-Jul-16",
+			"repository": "",
+			"description": "Cisco IOS Darkmode",
+			"author": "YlloNieR"
+		},
+		{
 			"id-name": "clojure_byDanielCotter",
 			"display-name": "Clojure",
 			"version": "Sun, 09 Sep 2012 13:07:49 GMT",
@@ -454,6 +462,15 @@
 			"repository": "",
 			"description": "Datcom (input and output)",
 			"author": "Stuart Bowman <mailto:sbowman@mitre.org>"
+		},
+		{
+			"id-name": "DAX_bySaschaKasper",
+			"display-name": "DAX",
+			"version": "3.07",
+			"repository": "",
+			"description": "DAX Data Visualization (Microsoft Power BI)",
+			"author": "Sascha D. Kasper",
+			"homepage": "https://sascha-kasper.com/dax-syntax-highlighting-for-notepad/"
 		},
 		{
 			"id-name": "DCL_by-wolfxx",
@@ -961,6 +978,15 @@
 			"author": "Catherine Dusa <mailto:catdusa@hotmail.com>"
 		},
 		{
+			"id-name": "Log_darkMode_byS0UGATA",
+			"display-name": "Log_darkMode",
+			"version": "Wed, 02 Mar 2022 11:20:19 CET",
+			"repository": "",
+			"description": "Log syntax highlighter for Dark Mode",
+			"author": "Sougata Bhattacharya <mailto:s0u9ata@gmail.com>",
+			"homepage": "https://github.com/S0UGATA"
+		},
+		{
 			"id-name": "LotusScript_byUdoJunghans",
 			"display-name": "Lotus Script",
 			"version": "Sun, 05 Aug 2012 13:43:30 GMT",
@@ -983,6 +1009,15 @@
 			"repository": "",
 			"description": "LS-DYNA",
 			"author": "Tim Hartman <mailto:tbhartman@vt.edu>"
+		},
+		{
+			"id-name": "Magpie_bySilectis.udl",
+			"display-name": "Magpie",
+			"version": "Tue, 25 Oct 2022 07:26:00 GMT",
+			"repository": "",
+			"description": "This package provides syntax highlighting for the domain specific language of Mapgie, a data engineering product created by Silectis.",
+			"author": "Brendan Freehart <mailto:info@silect.is>",
+			"homepage": "https://www.silect.is/"
 		},
 		{
 			"id-name": "GNU_MathProg_by_third_maths",
@@ -1201,6 +1236,24 @@
 			"author": "Stephen C. Olson <mailto:steve.olson@clinpharmres.com>"
 		},
 		{
+			"id-name": "NppExec_themeDefault_byAndreasHeim",
+			"display-name": "NppExec",
+			"version": "2022-11-10",
+			"repository": "",
+			"description": "NppExec plugin scripting language",
+			"author": "Andreas Heim (dinkumoil on GitHub and SourceForge)",
+			"homepage": "https://github.com/dinkumoil"
+		},
+		{
+			"id-name": "NppExec_themeMaterial_byAndreasHeim",
+			"display-name": "NppExec (Material theme)",
+			"version": "2022-11-10",
+			"repository": "",
+			"description": "NppExec plugin scripting language",
+			"author": "Andreas Heim (dinkumoil on GitHub and SourceForge)",
+			"homepage": "https://github.com/dinkumoil"
+		},
+		{
 			"id-name": "Nuke_byMichalM",
 			"display-name": "Nuke",
 			"version": "Wed, 14 Aug 2013 07:59:34 GMT",
@@ -1361,6 +1414,15 @@
 			"author": "Dave Stow <mailto:dave@davestow.com>"
 		},
 		{
+			"id-name": "POVRay_byMisto423",
+			"display-name": "POV-Ray",
+			"version": "Tue, 05 Apr 2022 3:33:33 GMT",
+			"repository": "",
+			"description": "Persistence of Vision Raytracer (POV-Ray) Code",
+			"author": "Misto423",
+			"homepage": "https://github.com/Misto423"
+		},
+		{
 			"id-name": "PowerBuilder_byCarlSaunders",
 			"display-name": "PowerBuilder",
 			"version": "Thu, 24 May 2012 17:52:38 GMT",
@@ -1423,6 +1485,24 @@
 			"repository": "",
 			"description": "Prolog (SWI)",
 			"author": "Anthony Bonnier <mailto:anthonybonnier@gmail.com>"
+		},
+		{
+			"id-name": "PyInstaller_Spec_byTnhung2011",
+			"display-name": "PyInstaller Specification (Light)",
+			"version": "22 Jul 2022",
+			"repository": "",
+			"description": "PyInstaller Specification",
+			"author": "tnhung2011",
+			"homepage": "https://github.com/tnhung2011"
+		},
+		{
+			"id-name": "PyInstaller_Spec_Darkmode_byTnhung2011",
+			"display-name": "PyInstaller Specification (Dark)",
+			"version": "22 Jul 2022",
+			"repository": "",
+			"description": "PyInstaller Specification",
+			"author": "tnhung2011",
+			"homepage": "https://github.com/tnhung2011"
 		},
 		{
 			"id-name": "Qik_byStevenCraft",
@@ -1519,14 +1599,6 @@
 			"repository": "",
 			"description": "RenderMan Shading Language &amp; RIB",
 			"author": "Stefan Gustavson <mailto:stegu@itn.se>"
-		},
-		{
-			"id-name": "RenderMan-RSL_by-focus_gfx",
-			"display-name": "RenderMan Shading Language v2 autocompetion file",
-			"version": "Sun, 09 Sep 2012 11:22:14 GMT",
-			"repository": "",
-			"description": "RenderMan Shading Language v2 autocompetion file",
-			"author": "focus_gfx <mailto:focus_gfx@hotmail.com>"
 		},
 		{
 			"id-name": "Rules_Language_byNimadDeshpande",
@@ -1650,6 +1722,14 @@
 			"author": "Christian Taton <mailto:tatonchristian@gmail.com>"
 		},
 		{
+			"id-name": "Smartsheet_byKevinDickinson",
+			"display-name": "Smartsheet",
+			"version": "Fri, 23 Sep 2022 00:16:00 GMT",
+			"repository": "",
+			"description": "Smartsheet",
+			"author": "Kevin Dickinson <mailto:ktdickinson@gmail.com>"
+		},
+		{
 			"id-name": "Smarty_byHelge-deVries",
 			"display-name": "Smarty",
 			"version": "Wed, 03 Aug 2005 19:42:49 GMT",
@@ -1688,6 +1768,14 @@
 			"repository": "",
 			"description": "SPlunk configuration",
 			"author": "httpstergeek <mailto:httpstergeek@users.sourceforge.net>"
+		},
+		{
+			"id-name": "SQL_Manifold9_byRKolka",
+			"display-name": "SQL/9",
+			"version": "Wed, 05 Oct 2022 20:38:00 GMT",
+			"repository": "",
+			"description": "SQL of Manifold 9",
+			"author": "Riivo Kolka <mailto:riivo.kolka@gmail.com>"
 		},
 		{
 			"id-name": "SQR_byJames",
@@ -1818,12 +1906,29 @@
 			"author": "mail507 <mailto:mail507@users.sourceforge.com>"
 		},
 		{
+			"id-name": "TNT_phylogenetics",
+			"display-name": "TNT",
+			"version": "Fri, 02 Sep 2022 14:15:58 GMT",
+			"repository": "",
+			"description": "TNT phylogenetic software",
+			"author": "Martin R. Smith <mailto:martin.smith@durham.ac.uk>",
+			"homepage": "https://github.com/ms609/"
+		},
+		{
 			"id-name": "TodoDotTxt_byTimDrub",
 			"display-name": "Todo.txt",
 			"version": "Fri, 28 Feb 2014 08:12:26 GMT",
 			"repository": "",
 			"description": "Todo.txt",
 			"author": "Tim Drub <mailto:tim.drub@hacky.eu>"
+		},
+		{
+			"id-name": "TOML_byTimendum",
+			"display-name": "TOML",
+			"version": "v1.0",
+			"repository": "",
+			"description": "Tom's Obvious, Minimal Language",
+			"author": "timendum"
 		},
 		{
 			"id-name": "TradeStation_EasyLanguage_byCharlesToepfer",
@@ -2061,7 +2166,7 @@
 			"id-name": "asmMips64_byRyanKane",
 			"display-name": "ASM for MIPS64",
 			"version": "Sun, 22 Sep 2013 18:22:20 GMT",
-			"repository": "http://rmkane.com/userDefineLang_asmMips64.xml",
+			"repository": "",
 			"description": "ASM for MIPS64",
 			"author": "Ryan Kane <mailto:rmkane89@gmail.com>"
 		},
@@ -2363,7 +2468,7 @@
 			"homepage": "https://github.com/m0n4"
 		},
 		{
-			"id-name": "ExcelFormula",
+			"id-name": "ExcelFormula_byOlivierMarche",
 			"display-name": "ExcelFormula",
 			"version": "v1.00",
 			"repository": "",
@@ -2372,7 +2477,7 @@
 			"homepage": "https://github.com/OlivierMarche"
 		},
 		{
-			"id-name": "ExcelFormula_Dark",
+			"id-name": "ExcelFormula_ThemeDark_byOlivierMarche",
 			"display-name": "ExcelFormula_Dark",
 			"version": "v1.00",
 			"repository": "",
@@ -2397,6 +2502,62 @@
 			"description": "Notepad++ syntax highlighting for Robotframework",
 			"author": "https://github.com/vkosuri",
 			"homepage": "https://github.com/vkosuri/npp-robot"
+		},
+		{
+			"id-name": "Amiga_E_bydmcoles",
+			"display-name": "Amiga_E",
+			"version": "Fri, 2 Sep 2022 15:53:00 GMT",
+			"repository": "https://raw.githubusercontent.com/dmcoles/userDefinedLanguages/master/autoCompletions/Amiga_E_bydmcoles.xml",
+			"description": "Amiga E syntax highlighting",
+			"author": "https://github.com/dmcoles"
+		},
+		{
+			"id-name": "Amiga_E_dark_bydmcoles",
+			"display-name": "Amiga_E_dark",
+			"version": "Fri, 2 Sep 2022 15:53:00 GMT",
+			"repository": "https://raw.githubusercontent.com/dmcoles/userDefinedLanguages/master/autoCompletions/Amiga_E_dark_bydmcoles.xml",
+			"description": "Amiga E syntax highlighting (dark version)",
+			"author": "https://github.com/dmcoles"
+		},
+		{
+			"id-name": "xcbasic3_byAlanBourke",
+			"display-name": "XC=BASIC 3",
+			"version": "Wed, 14 Sep 2022 10:00:00 GMT",
+			"repository": "",
+			"description": "XC=BASIC 3 syntax highlighting",
+			"author": "Alan Bourke"
+		},
+		{
+			"id-name": "Fortinet_FortiOS_FGT_by_DPBarbosa",
+			"display-name": "Fortinet Fortigate",
+			"version": "2022-Sep-16",
+			"repository": "",
+			"description": "Fortinet FortiOS for Fortigate",
+			"author": "DPBarbosa"
+		},
+		{
+			"id-name": "jai.udl",
+			"display-name": "Jai",
+			"version": "2022-Nov-15",
+			"repository": "https://github.com/cookednick/jai_npp",
+			"description": "Jai syntax highlighting",
+			"author": "cookednick"
+		},
+		{
+			"id-name": "ArubaOS-16.10_byMaiKiMax94",
+			"display-name": "ArubaOS 16.10",
+			"version": "2022-Oct-09",
+			"repository": "",
+			"description": "ArubaOS 16.10 for HPE-Aruba Switchs",
+			"author": "MaiKiMax94"
+		},
+		{
+			"id-name": "AOS-CX-10.09_byMaiKiMax94",
+			"display-name": "AOS-CX 10.09",
+			"version": "2022-Oct-13",
+			"repository": "",
+			"description": "AOS-CX 10.09 for Aruba 6000 Switchs Series",
+			"author": "MaiKiMax94"
 		}
 	]
 }
