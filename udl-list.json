@@ -561,14 +561,6 @@
 			"author": "Markkobo <mailto:Markkobo@users.sourceforge.net>"
 		},
 		{
-			"id-name": "EGL-EnterpriseGenerationLanguage_byKoen",
-			"display-name": "Enterprise Generation Language",
-			"version": "Sat, 28 Apr 2012 12:30:50 GMT",
-			"repository": "",
-			"description": "Enterprise Generation Language",
-			"author": "Koen <mailto:koen3950@gmail.com>"
-		},
-		{
 			"id-name": "Emailheader_byPeterFisk",
 			"display-name": "Email header",
 			"version": "Wed, 08 Apr 2020 08:50:00 GMT",
@@ -768,6 +760,14 @@
 			"repository": "",
 			"description": "Gnuplot",
 			"author": "Johan Wild <mailto:johan.wild@europaskolan.se>"
+		},
+		{
+			"id-name": "gnuplot_2023",
+			"display-name": "Gnuplot (with Folding)",
+			"version": "Thu, 19 Jan 2023 12:00:00 GMT",
+			"repository": "",
+			"description": "Gnuplot, updated syntax including keywords and folding",
+			"author": "Alexander Stangl <mailto:alexander.stangl@gmail.com>"
 		},
 		{
 			"id-name": "go_byAnthonyStarks",
@@ -2354,15 +2354,6 @@
 			"homepage": "https://gist.github.com/CADbloke/7478607"
 		},
 		{
-			"id-name": "WLangLexer_by-tpruvot",
-			"display-name": "WLanguage v15 and WDScript (plugin too)",
-			"version": "Sun, 26 Jan 2020 22:43:10 GMT",
-			"repository": "https://sourceforge.net/projects/wdscript/files/Syntax%20Highlighting/WDScript%202.5%20Notepad%2B%2B%20Syntax%20File/NPP.Plugin.WLangLexer.v4.1.0.16-wd16038f.zip/download",
-			"description": "WLanguage v15 and WDScript (plugin too)",
-			"author": "tpruvot  <mailto:tpruvot@users.sourceforge.net>",
-			"homepage": "https://sourceforge.net/projects/wdscript/files/Syntax%20Highlighting/WDScript%202.5%20Notepad%2B%2B%20Syntax%20File/"
-		},
-		{
 			"id-name": "yang_by-gribok",
 			"display-name": "YANG",
 			"version": "Tue Mar 10 2020 19:16:31 GMT",
@@ -2425,7 +2416,7 @@
 		{
 			"id-name": "Vimscript_by_rdipardo",
 			"display-name": "Vim script",
-			"version": "2021-11-21",
+			"version": "2023-02-10",
 			"repository": "https://gist.github.com/0b78f62e1ce481ff0d8f8e80cc298ced.git",
 			"description": "User Defined Language for Vim script",
 			"author": "Robert Di Pardo",
@@ -2434,7 +2425,7 @@
 		{
 			"id-name": "Vimscript_Obsidian_by_rdipardo",
 			"display-name": "Vim script (Obsidian)",
-			"version": "2021-11-21",
+			"version": "2023-02-10",
 			"repository": "https://gist.github.com/b8d586e156f543afc84690ac9ddf8e91.git",
 			"description": "User Defined Language for Vim script (based on the Obsidian theme)",
 			"author": "Robert Di Pardo",
@@ -2566,6 +2557,24 @@
 			"repository": "",
 			"description": "Power Apps programming low-code language. Designed to closely match formula bar in Canvas Studio",
 			"author": "dnourie13"
+		},
+		{
+			"id-name": "zig_by-tgschultz",
+			"display-name": "Zig",
+			"version": "2023-Jan-30",
+			"repository": "",
+			"description": "Zig",
+			"author": "tgschultz",
+			"homepage": "https://github.com/tgschultz/Npp-ziglang-UDL"
+		},
+		{
+			"id-name": "RISCV-Light_byAidanDempsey",
+			"display-name": "RISC-V",
+			"version": "2023-Mar-04",
+			"repository": "https://github.com/aidan-d123/riscv_npp/blob/main/RISCV-Light_byAidanDempsey.xml",
+			"description": "RISC-V UDL File for Notepad++",
+			"author": "Aidan Dempsey",
+			"homepage": "https://github.com/aidan-d123/riscv_npp"
 		}
 	]
 }

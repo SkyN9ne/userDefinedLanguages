@@ -79,7 +79,6 @@
 | [EisenScript](./UDLs/EisenScript_bySygwindFeamir.xml) | EisenScript | Sygwind Feamir |
 | [Elf](./UDLs/Elf_byMarkkobo.xml) | Elf | Markkobo |
 | [Email header](./UDLs/Emailheader_byPeterFisk.xml) | Email header | PeterFisk |
-| [Enterprise Generation Language](./UDLs/EGL-EnterpriseGenerationLanguage_byKoen.xml) | Enterprise Generation Language | Koen |
 | [Erlang](./UDLs/erlang_byMikeKaganski.xml) | Erlang | mikekaganski |
 | [Essbase Suite](./UDLs/EssbaseSuite_byCelvinKattookaran.xml) | Essbase Suite | Celvin Kattookaran |
 | [Excel formulas](./UDLs/ExcelForumlas-xlf_byDickKusleika.xml) | Excel formulas | [Dick Kusleika](http://www.dailydoseofexcel.com/archives/2010/09/29/formula-editor-in-notepad/) |
@@ -104,6 +103,7 @@
 | [GameMonkey](./UDLs/GameMonkey_byJanSchreiber.xml) | GameMonkey | janschreiber |
 | [Gherkin](./UDLs/Gherkin_byFrankRalf.xml) | Gherkin | [Frank Ralf](https://github.com/nakohdo/NPP.Gherkin) |
 | [Gnuplot](./UDLs/Gnuplot_byJohanWild.xml) | Gnuplot | Johan Wild |
+| [Gnuplot (with Folding)](./UDLs/gnuplot_2023.xml) | Gnuplot (with Folding) | Alexander Stangl |
 | [Google Go (syntax and auto-completion)](./UDLs/go_byAnthonyStarks.xml) | Google Go (syntax and auto-completion) | Anthony Starks |
 | [Google Protocol Buffers](./UDLs/GoogleProtocolBuffers-GPB_byBradWehmeier.xml) | Google Protocol Buffers | Brad Wehmeier |
 | [GPD](https://github.com/SinghRajenM/GPD_UDL/blob/master/UDL/GPD.byRajendraSingh.xml) | UDL for Generic Printer Description | [Rajendra Singh](https://github.com/SinghRajenM) |
@@ -210,7 +210,7 @@
 | [R2RML](./UDLs/R2RML_byFranckMichel.xml) | R2RML | Franck Michel |
 | [RAPID](./UDLs/RAPID_byDanVenema.xml) | RAPID | Dan Venema |
 | [REXX (several dialects), with autocompletion](./UDLs/REXX-SeveralDialects_byGertMassheimer.xml) | REXX (several dialects), with autocompletion | Gert Massheimer |
-| [REXX (for TSO/E), with autocompletion](./UDLs/REXX_TSOE_byMadan.xml) | REXX (for TSO/E), with autocompletion | Madan Kumar | 
+| [REXX (for TSO/E), with autocompletion](./UDLs/REXX_TSOE_byMadan.xml) | REXX (for TSO/E), with autocompletion | Madan Kumar |
 | [RPM spec files](./UDLs/RPM-SpecFiles_byMatthewKruer.xml) | RPM spec files | Matthew Kruer |
 | [RTF Rich Text Format](./UDLs/RichText-RTF_byFrankRalf.xml) | RTF Rich Text Format | [Frank Ralf](https://github.com/nakohdo/NPP.RTF) |
 | [Rebol](./UDLs/Rebol_byMasaruYamabashi.xml) | Rebol | Masaru Yamabashi |
@@ -280,7 +280,6 @@
 | [Visual DataFlex](./UDLs/Visual_DataFlex_byBernhardVeit.xml) | Visual DataFlex | Bernhard Veit |
 | [Visual FoxPro](./UDLs/VisualFoxPro_by-jgoh.xml) | Visual FoxPro | José Guillermo Ortiz Hernández |
 | [Visual Studio csproj vbproj vstemplate files](./UDLs/VisualStudioProject_byCADbloke.xml) | Visual Studio csproj vbproj vstemplate files | [CADbloke](https://gist.github.com/CADbloke/7478607) |
-| [WLanguage v15 and WDScript (plugin too)](./UDLs/WLangLexer_by-tpruvot.xml) | WLanguage v15 and WDScript (plugin too) | [tpruvot](https://sourceforge.net/projects/wdscript/files/Syntax%20Highlighting/WDScript%202.5%20Notepad%2B%2B%20Syntax%20File/) |
 | [WSH Panel Mod](./UDLs/JScript-WSH-PanelMod_byLSI-N.xml) | WSH Panel Mod | LSI N |
 | [Wavefront OBJ](./UDLs/Wavefront-OBJ_by-aperezm.xml) | Wavefront OBJ | aperezm |
 | [WebFOCUS](./UDLs/WebFOCUS_by-thomas-aglassinger.xml) | WebFOCUS | thomas.aglassinger |
@@ -308,6 +307,7 @@
 | [vislcg3](./UDLs/vislcg3_by-ginlennon.xml) | vislcg3 | M A |
 | [YANG](./UDLs/yang_by-gribok.xml) | YANG | [gribok](https://github.com/gribok) |
 | [YARA](./UDLs/YARA_byM0N4.xml) | YARA | [m0n4](https://github.com/m0n4) |
+| [Zig](./UDLs/zig_by-tgschultz.xml) | Zig | [tgschultz](https://github.com/tgschultz/Npp-ziglang-UDL) |
 | [ZPL](./UDLs/Zebra_Printing_Language.xml) | Zebra Printing Language | AWWOLF |
 | [Excel formulas](./UDLs/ExcelFormula_byOlivierMarche.xml) | Excel formulas | [Olivier Marché](https://github.com/OlivierMarche)
 | [Excel formulas (Dark)](./UDLs/ExcelFormula_ThemeDark_byOlivierMarche.xml) | Excel formulas (Dark theme) | [Olivier Marché](https://github.com/OlivierMarche)
@@ -317,3 +317,5 @@
 | [XC=BASIC 3](./UDLs/xcbasic3_byAlanBourke.xml) | XC=BASIC 3 syntax highlighting| Alan Bourke |
 | [Fortinet Fortigate](./UDLs/Fortinet_FortiOS_FGT_by_DPBarbosa.xml) | Fortinet Fortigate syntax highlighting| Danilo Padula Barbosa |
 | [PowerFx_PowerAppsStyle](./UDLs/PowerFx_PowerAppsStyle.xml) | Low-code programming language used in Power Apps| David Nourie |
+| [RISC-V](./UDLs/RISCV-Light_byAidanDempsey.xml) | RISC-V Assembly Language | Aidan Dempsey |
+
