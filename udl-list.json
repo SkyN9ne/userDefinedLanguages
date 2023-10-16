@@ -3,6 +3,14 @@
 	"version": "1.0",
 	"UDLs": [
 		{
+			"id-name": "RouterOS Script",
+			"display-name": "RouterOS Script - NieL™",
+			"version": "2023-06-01",
+			"repository": "https://github.com/NieLTechSolution/Notepad-plus-plus/blob/e8422064a97eb7cd372c2b5769f760ce233b5bbc/UDL/RouterOS-Script-NieL%E2%84%A2.xml",
+			"description": "Syntax for the Mikrotik RouterOS Script, it is unofficial UDL to help scripting your mikrotik. Highlighting syntax somewhat helpful of detecting error inputs",
+			"author": "NieL™ TechSolution"
+		},
+		{
 			"id-name": "6502Assembly_byCarlMyerholtz",
 			"display-name": "6502 Assembly",
 			"version": "Sun, 8 Nov 2020 22:01:00 GMT",
@@ -234,10 +242,10 @@
 		{
 			"id-name": "AutoHotKey_byBrotherGabriel-Marie",
 			"display-name": "AutoHotKey",
-			"version": "Sun, 24 Nov 2013 13:14:07 GMT",
+			"version": "Thu, 21 Sep 2023 10:26 GMT",
 			"repository": "",
 			"description": "AutoHotKey",
-			"author": "Brother Gabriel-Marie <mailto:brgabriel@sspx.org>"
+			"author": "Brother Gabriel-Marie <mailto:brgabriel@sspx.org>; edited by Snowman-25"
 		},
 		{
 			"id-name": "AutoLISPforAutoCAD_MichaelPuckett",
@@ -454,6 +462,14 @@
 			"repository": "",
 			"description": "Cue-sheet",
 			"author": "David R <mailto:dros001@yahoo.com>"
+		},
+		{
+			"id-name": "Dart_by_thiagovscoelho",
+			"display-name": "Dart",
+			"version": "Fri Apr 21 08:09:59 2023 GMT",
+			"repository": "",
+			"description": "Dart",
+			"author": "Thiago Coelho <mailto:thiagovscoelho@gmail.com>"
 		},
 		{
 			"id-name": "DatcomIO_by_StuartBowman",
@@ -1238,7 +1254,7 @@
 		{
 			"id-name": "NppExec_themeDefault_byAndreasHeim",
 			"display-name": "NppExec",
-			"version": "2022-11-10",
+			"version": "2023-04-01",
 			"repository": "",
 			"description": "NppExec plugin scripting language",
 			"author": "Andreas Heim (dinkumoil on GitHub and SourceForge)",
@@ -1247,7 +1263,7 @@
 		{
 			"id-name": "NppExec_themeMaterial_byAndreasHeim",
 			"display-name": "NppExec (Material theme)",
-			"version": "2022-11-10",
+			"version": "2023-04-01",
 			"repository": "",
 			"description": "NppExec plugin scripting language",
 			"author": "Andreas Heim (dinkumoil on GitHub and SourceForge)",
@@ -1260,6 +1276,15 @@
 			"repository": "",
 			"description": "Nuke",
 			"author": "Michal M <mailto:michalmoc@centrum.cz>"
+		},
+		{
+			"id-name": "Objective-C++_byLattHsiang",
+			"display-name": "Objective-C++",
+			"version": "2023-06-16",
+			"repository": "https://github.com/skadomsky/Objective-C-Plus-Plus/",
+			"description": "Objective-C++",
+			"author": "Latt Hsiang",
+			"homepage": "https://github.com/skadomsky/"
 		},
 		{
 			"id-name": "OBMM-Script_byAnonymous_in2006",
@@ -1609,6 +1634,15 @@
 			"author": "Nimad Deshpande <mailto:nimad116@gmail.com>"
 		},
 		{
+			"id-name": "Rust_byPaoloFalabella",
+			"display-name": "Rust Language",
+			"version": "12-30-2013",
+			"repository": "https://github.com/pfalabella/Rust-notepadplusplus/blob/master/darkThemeCompatible.xml",
+			"description": "Rust Language",
+			"author": "Paolo Falabella",
+			"homepage": "https://github.com/pfalabella/Rust-notepadplusplus"
+		},
+		{
 			"id-name": "R_by-halpo",
 			"display-name": "R language",
 			"version": "Tue, 08 Dec 2009 19:09:36 GMT",
@@ -1655,6 +1689,22 @@
 			"repository": "",
 			"description": "SAS with pseudocode",
 			"author": "Jeff Foarde <mailto:foarde@gmail.com>"
+		},
+		{
+			"id-name": "SAS_StyleDark_byMatthiasBoege",
+			"display-name": "SAS (dark style) v1",
+			"version": "Sat, 16 Sep 2023 13:48:23 GMT",
+			"repository": "",
+			"description": "SAS for dark NPP styles",
+			"author": "Matthias B&ouml;ge <mailto:matthias@boege-consulting.com>"
+		},
+		{
+			"id-name": "SAS_StyleLight_byMatthiasBoege",
+			"display-name": "SAS (light style) v1",
+			"version": "Sat, 16 Sep 2023 13:48:23 GMT",
+			"repository": "",
+			"description": "SAS for light NPP styles",
+			"author": "Matthias B&ouml;ge <mailto:matthias@boege-consulting.com>"
 		},
 		{
 			"id-name": "Scala_byMihailJP",
@@ -1816,6 +1866,14 @@
 			"repository": "",
 			"description": "Substation Alpha format",
 			"author": "Andrew Miller <mailto:A.J.Miller@bcs.org.uk>"
+		},
+		{
+			"id-name": "Substation_alpha_subtitles_byJackyHE",
+			"display-name": "SubStation Alpha Subtitles (ASS)",
+			"version": "Sun, 20 Mar 2022 15:36:48 GMT",
+			"repository": "",
+			"description": "Substation Alpha format",
+			"author": "Jacky HE <mailto:ihkk.nb@gmail.com>"
 		},
 		{
 			"id-name": "Susan_byMahderGebremedhin",
@@ -2110,6 +2168,15 @@
 			"description": "HL7",
 			"author": "Phaxmohdem",
 			"homepage": "https://stackoverflow.com/a/28702192/5508606"
+		},
+		{
+			"id-name": "HLASM_byAbeKornelis",
+			"display-name": "HLASM",
+			"version": "z16",
+			"repository": "",
+			"description": "HLASM",
+			"author": "Abe Kornelis",
+			"homepage": "https://bixoft.com/english/opcd00.htm"
 		},
 		{
 			"id-name": "AuditCommandLanguage-ACL_byJChen",
@@ -2416,7 +2483,7 @@
 		{
 			"id-name": "Vimscript_by_rdipardo",
 			"display-name": "Vim script",
-			"version": "2023-02-10",
+			"version": "2023-09-06",
 			"repository": "https://gist.github.com/0b78f62e1ce481ff0d8f8e80cc298ced.git",
 			"description": "User Defined Language for Vim script",
 			"author": "Robert Di Pardo",
@@ -2425,7 +2492,7 @@
 		{
 			"id-name": "Vimscript_Obsidian_by_rdipardo",
 			"display-name": "Vim script (Obsidian)",
-			"version": "2023-02-10",
+			"version": "2023-09-06",
 			"repository": "https://gist.github.com/b8d586e156f543afc84690ac9ddf8e91.git",
 			"description": "User Defined Language for Vim script (based on the Obsidian theme)",
 			"author": "Robert Di Pardo",
@@ -2575,6 +2642,48 @@
 			"description": "RISC-V UDL File for Notepad++",
 			"author": "Aidan Dempsey",
 			"homepage": "https://github.com/aidan-d123/riscv_npp"
+		},
+		{
+			"id-name": "OSL_byEdawan",
+			"display-name": "OSL",
+			"version": "2023-May-24",
+			"repository": "",
+			"description": "Open Shading Language (OSL) highlighting. Up to date for OSL 1.12",
+			"author": "Edawan"
+		},
+		{
+			"id-name": "UniBASIC_byJustinKobylarz",
+			"display-name": "UniBASIC",
+			"version": "2023-June-22nd",
+			"repository": "",
+			"description": "UniBASIC",
+			"author": "JustinKobylarz"
+		},
+		{
+			"id-name": "Fobagraph_Script_(.bia)_LightMode_by_HelloWorldFR",
+			"display-name": "Fobagraph Script LightMode",
+			"version": "Mon, 18 Jul 2023 17:35:00 GMT",
+			"repository": "https://github.com/HelloWorldFR/userDefinedLanguages/blob/master/UDLs/Fobagraph_Script_(.bia)_LightMode_by_HelloWorldFR.xml",
+			"description": "Fobagraph Script for laser machine",
+			"author": "HelloWorldFR",
+			"homepage": "https://github.com/HelloWorldFR/"
+		},
+				{
+			"id-name": "Fobagraph_Script_(.bia)_DarkMode_by_HelloWorldFR",
+			"display-name": "Fobagraph Script DarkMode",
+			"version": "Mon, 18 Jul 2023 17:35:00 GMT",
+			"repository": "https://github.com/HelloWorldFR/userDefinedLanguages/blob/master/UDLs/Fobagraph_Script_(.bia)_DarkMode_by_HelloWorldFR.xml",
+			"description": "Fobagraph Script for laser machine",
+			"author": "HelloWorldFR",
+			"homepage": "https://github.com/HelloWorldFR/"
+		},
+		{
+			"id-name": "GCODE-Sinumerik_bySergioGU",
+			"display-name": "GCODE-Sinumerik",
+			"version": "1.0.0",
+			"repository": "",
+			"description": "Siemens Sinumerik CNC GCode syntax highlighting",
+			"author": "Sergio GU"
 		}
 	]
 }

@@ -1,6 +1,8 @@
+### UDL Definitions
 
 | Name | Description | Author |
 |------|-------------|-------:|
+| [RouterOS Script - NieL™](./UDLs/RouterOS-Script-NieL™.xml) | Syntax for the Mikrotik RouterOS Script, it is unofficial UDL to help scripting your mikrotik. Highlighting syntax somewhat helpful of detecting error inputs | NieL™ TechSolution |
 | [6502 Assembly](./UDLs/6502Assembly_byCarlMyerholtz.xml) | ASM for 6502 | Carl Myerholtz |
 | [3GL](./UDLs/3GL_byDrezzzz.xml) | 3GL | drezzzzz |
 | [68k Assembly](./UDLs/68K_Assembly_byAmix73.xml) | 68k Assembly | Amix 73 |
@@ -37,7 +39,7 @@
 | [Asterisk Extension Language (AEL)](./UDLs/AsteriskExtensionLanguage-AEL_by-eyzel.xml) | Asterisk Extension Language (AEL) | eyzel |
 | [Asterisk Sys Config](./UDLs/AsteriskSys_byBrotherGabriel-Marie.xml) | Asterisk Sys Config | Brother Gabriel-Marie |
 | [AutoCAD](./UDLs/AutoCAD-LPSS.udl.xml) | AutoCAD Linetype, Hatch Pattern, Script and Shape files | [Rusi Dimitrov](https://github.com/rddim/npp-udl)|
-| [AutoHotKey](./UDLs/AutoHotKey_byBrotherGabriel-Marie.xml) | AutoHotKey | Brother Gabriel-Marie |
+| [AutoHotKey](./UDLs/AutoHotKey_byBrotherGabriel-Marie.xml) | AutoHotKey | Brother Gabriel-Marie & Snowman-25 |
 | [AutoLISP for AutoCAD](./UDLs/AutoLISPforAutoCAD_MichaelPuckett.xml) | AutoLISP for AutoCAD | Michael Puckett |
 | [BB Code](./UDLs/BB_Code_by_Efrit.xml) | BB Code | Efrit |
 | [BIND Config](./UDLs/BIND-Config_by_JeremyLaidman.xml) | BIND Config | Jeremy Laidman |
@@ -66,6 +68,7 @@
 | [DCL](./UDLs/DCL_by-wolfxx.xml) | DCL | Wolfgang Walhütter |
 | [DML / Gembase](./UDLs/DML-Gembase_byDubMatrix.xml) | DML / Gembase | DubMatrix |
 | [DNS Zone](./UDLs/DNS-Zone_byJeremyLaidman.xml) | DNS Zone | Jeremy Laidman |
+| [Dart](./UDLs/Dart_by_thiagovscoelho.xml) | Dart | Thiago Coelho |
 | [Datcom (input and output)](./UDLs/DatcomIO_by_StuartBowman.xml) | Datcom (input and output) | Stuart Bowman |
 | [Delphi Forms](./UDLs/DelphiForms_by-ewgbel.xml) | Delphi Forms | Ewgenij Belzmann |
 | [DinkC](./UDLs/DinkC_by-sparrowhawk76.xml) | DinkC | Y.V. |
@@ -87,6 +90,7 @@
 | [FHEM](./UDLs/FHEM_byChristophWempe.xml) | FHEM | Christoph Wempe |
 | [Fanuc](./UDLs/Fanuc_by-mar_tech.xml) | Fanuc | mar_tech |
 | [FileMaker Pro calculation](./UDLs/FileMakerPro_Calculation_byDanSmith.xml) | FileMaker Pro calculation | [Dan Smith](https://github.com/dansmith65/FileMaker-Notepad-plus-plus) |
+| [Fobagraph script](./UDLs/Fobagraph_Script_(.bia)_LightMode_by_HelloWorldFR.xml) | Fobagraph script laser machine | [HelloWorldFR](https://github.com/HelloWorldFR/) |
 | [FontForge Font project](./UDLs/FontForge_Project_byAndrewMiller.xml) | FontForge Font project | Andrew Miller |
 | [FontForge Script language](./UDLs/FontForge_Script_byAndrewMiller.xml) | FontForge Script language | Andrew Miller |
 | [FormCalc](./UDLs/FormCalc_byJeremyEvanchesky.xml) | FormCalc | Jeremy Evanchesky |
@@ -95,6 +99,7 @@
 | [G-Code (Okuma lathes)](./UDLs/GCODE-3d-OkumaLathes_byHarveyShrock.xml) | G-Code (Okuma lathes) | Harvey Shrock |
 | [G-Code (most CNC machines)](./UDLs/GCODE-3d-MostCNC_byMikeLohmeyer.xml) | G-Code (most CNC machines) | Mike Lohmeyer |
 | [G-Code 3D Print](./UDLs/GCODE-3d_by_AndresHermes.xml) | G-Code 3D Print | Andrés Hermes |
+| [G-Code Sinumerik CNC](./UDLs/GCODE-Sinumerik_bySergioGU.xml) | G-Code Sinumerik | Sergio Garcia |
 | [GEDCOM55](./UDLs/gedcom55_byAnonymous_in2010.xml) | GEDCOM55 |  |
 | [GIFT format](./UDLs/GIFT-Format_byMatthewKuznia.xml) | GIFT format | Matthew Kuznia |
 | [GISDK](./UDLs/GISDK_byFranciscoFerreira.xml) | GISDK | Francisco Ferreira |
@@ -113,6 +118,7 @@
 | [HL7](./UDLs/HL7_StackOverflow-ChrisK.xml) | HL7 | [Chris K](https://stackoverflow.com/a/11037142/5508606) |
 | [HL7](./UDLs/HL7_StackOverflow-Phaxmohdem.xml) | HL7 | [Phaxmohdem](https://stackoverflow.com/a/28702192/5508606) |
 | [HL7_LightBkgrnd](./UDLs/HL7_StackOverflow-GrittyRooster.xml) | HL7_LightBkgrnd | [Gritty Rooster](https://stackoverflow.com/a/36876612/5508606) |
+| [HLASM](./UDLs/HLASM_byAbeKornelis.xml) | High Level Assembler | [Abe Kornelis](https://bixoft.com/english/opcd00.htm) |
 | [HLSL](./UDLs/HLSL_byUniversal.xml) | HLSL | universal |
 | [HP VirtualConnect Script](./UDLs/VirtualConnect_byJosephCasalinoIII.xml) | HP VirtualConnect Script | Joseph Casalino III |
 | [HQL for Notepad++](./UDLs/HQL_byAkeelUdar.xml) | HQL for Notepad++ | Akeel Udar |
@@ -173,10 +179,12 @@
 | [NppExec](./UDLs/NppExec_themeDefault_byAndreasHeim.xml) | NppExec plugin scripting language | Andreas Heim |
 | [NppExec (Material theme)](./UDLs/NppExec_themeMaterial_byAndreasHeim.xml) | NppExec plugin scripting language | Andreas Heim |
 | [Nuke](./UDLs/Nuke_byMichalM.xml) | Nuke | Michal M |
+| [Objective-C++](./UDLs/Objective-C++_byLattHsiang.xml) | Objective-C++ | [Latt Hsiang](https://github.com/skadomsky/) |
 | [OBMM Sxript](./UDLs/OBMM-Script_byAnonymous_in2006.xml) | OBMM Sxript | Posted 09-2006 |
 | [Occam2](./UDLs/Occam2_byWilliamLuitje.xml) | Occam2 | William Luitje |
 | [Ogre3D Overlay Script](./UDLs/Ogre3DOverlay_byMortenASteinsland.xml) | Ogre3D Overlay Script | Morten A. Steinsland |
 | [OpenCL 1.0](./UDLs/OpenCL-v1p0_by-yash-eng.xml) | OpenCL 1.0 | yash-eng |
+| [OSL](./UDLs/OSL_byEdawan.xml) | Open Shading Language highlighting for OSL 1.12 | Edawan |
 | [Oracle PRO*C](./UDLs/PROC_V1_byArmandoHerrazDurango.xml) | Oracle PRO*C | Armando Herraz Durango |
 | [Oracle Web Content (formerly Stellent)](./UDLs/Oracle-UCL-iDoc_byArnoudKoot.xml) | Oracle Web Content (formerly Stellent) | Arnoud Koot |
 | [Oracle Workflow](./UDLs/OracleWorkflow_byAndrewMiller.xml) | Oracle Workflow | Andrew Miller |
@@ -215,13 +223,15 @@
 | [RTF Rich Text Format](./UDLs/RichText-RTF_byFrankRalf.xml) | RTF Rich Text Format | [Frank Ralf](https://github.com/nakohdo/NPP.RTF) |
 | [Rebol](./UDLs/Rebol_byMasaruYamabashi.xml) | Rebol | Masaru Yamabashi |
 | [RenderMan Shading Language &amp; RIB](./UDLs/RenderMan-RSL_byStefanGustavson.xml) | RenderMan Shading Language &amp; RIB | Stefan Gustavson |
-| [RenderMan Shading Language v2 autocompetion file](./UDLs/RenderMan-RSL_by-focus_gfx.xml) | RenderMan Shading Language v2 autocompetion file | focus_gfx |
 | [Rules Language](./UDLs/Rules_Language_byNimadDeshpande.xml) | Rules Language | Nimad Deshpande |
+| [Rust Language](./UDLs/Rust_byPaoloFalabella.xml) | Rust Language | [Paolo Falabella](https://github.com/pfalabella) |
 | [Robotframework](./UDLs/vkosuri_lang-robot.xml) | Robotframework with autocompletion | vkosuri |
 | [SAP NetWeaver IdM language](./UDLs/SAP-NetWeaver-IdM-v7p1_byFrankBuchholz.xml) | SAP NetWeaver IdM language | Frank Buchholz |
 | [SAP Web Intelligence Formula Editor](./UDLs/SAP-WebIntelligenceFormula_byIvanRubil.xml) | SAP Web Intelligence Formula Editor | Ivan Rubil |
 | [SAS with pseudocode](./UDLs/SAS_withPseudocode_byJeffFoarde.xml) | SAS with pseudocode | Jeff Foarde |
 | [SAS](./UDLs/SAS_byCathLawrence.xml) | SAS | Cath Lawrence |
+| [SAS dark style](./UDLs/SAS_StyleDark_byMatthiasBoege.xml) | SAS for dark NPP styles | Matthias B&ouml;ge |
+| [SAS light style](./UDLs/SAS_StyleLight_byMatthiasBoege.xml) | SAS for light NPP styles | Matthias B&ouml;ge |
 | [SLAX](./UDLs/SLAX_byTravisWaltz.xml) | SLAX | Travis Waltz |
 | [SPARQL 1.1](./UDLs/SPARQL-v1p1_byFranckMichel.xml) | SPARQL 1.1 | Franck Michel |
 | [SPiiPlus ACSPL+](./UDLs/SPiiPlus_ACSPL+_bySROMSE.xml) | SPiiPlus ACSPL+ | Sergio Miracco |
@@ -250,6 +260,7 @@
 | [Structured text for PLC programming (B&amp;R controllers)](./UDLs/StructuredText-PLC-B-R_byBradleyBaber.xml) | Structured text for PLC programming (B&amp;R controllers) | Bradley Baber |
 | [SubRip](./UDLs/SubRip_byAndreyEfremov.xml) | SubRip | Andrey Efremov |
 | [Substation Alpha format](./UDLs/SubStation_Alpha_byAndrewMiller.xml) | Substation Alpha format | Andrew Miller |
+| [Substation Alpha format](./UDLs/Substation_alpha_subtitles_byJackyHE.xml) | Substation Alpha Subtitles | Jacky HE |
 | [Susan](./UDLs/Susan_byMahderGebremedhin.xml) | Susan | Mahder Gebremedhin |
 | [System Verilog 1](./UDLs/SystemVerilog1_byKapilPatel.xml) | System Verilog 1 | Kapil Patel |
 | [SystemRDL  2.0](./UDLs/SystemRDL2_byKeithBrady.xml) | SystemRDL 2.0 | Keith Brady |
@@ -318,4 +329,16 @@
 | [Fortinet Fortigate](./UDLs/Fortinet_FortiOS_FGT_by_DPBarbosa.xml) | Fortinet Fortigate syntax highlighting| Danilo Padula Barbosa |
 | [PowerFx_PowerAppsStyle](./UDLs/PowerFx_PowerAppsStyle.xml) | Low-code programming language used in Power Apps| David Nourie |
 | [RISC-V](./UDLs/RISCV-Light_byAidanDempsey.xml) | RISC-V Assembly Language | Aidan Dempsey |
+| [UniBASIC](./UDLs/UniBASIC_byJustinKobylarz.xml) | UniBASIC PICK Language | JustinKobylarz |
 
+### Auto-Completion Definitions
+
+| Name | Description | Author |
+|------|-------------|-------:|
+| [Amiga_E](./autoCompletions/Amiga_E_bydmcoles.xml) | Amiga E | [dmcoles](https://github.com/dmcoles) |
+| [Amiga_E_dark](./autoCompletions/Amiga_E_dark_bydmcoles.xml) | Amiga E (Dark version)| [dmcoles](https://github.com/dmcoles) |
+| [DAX](./autoCompletions/DAX_bySaschaKasper.xml) | DAX Data Visualization (Microsoft Power BI) | Sascha D. Kasper |
+| [RenderMan Shading Language v2 autocompetion file](./autoCompletions/RenderMan-RSL_by-focus_gfx.xml) | RenderMan Shading Language v2 autocompetion file | focus_gfx |
+| [Robotframework](./autoCompletions/vkosuri-robotframework.xml) | Robotframework with autocompletion | vkosuri |
+| [Smartsheet](./autoCompletions/smartsheet_byKevinDickinson.xml) | Smartsheet | Kevin Dickinson |
+| [Vim script](./autoCompletions/Vimscript_by_rdipardo.xml) | Vim script | rdipardo |
