@@ -108,15 +108,23 @@ def parse_xml_files_from_udls_dir():
             #print(os.path.join("UDLs", file))
             parse_xml_file(os.path.join("UDLs", file), '.validators/userDefineLangs.xsd')
 
-def parse_xml_files_from_autoCompletions_dir():
+def parse_xml_files_from_autoCompletion_dir():
 
-    for file in os.listdir("autoCompletions"):
+    for file in os.listdir("autoCompletion"):
         if file.endswith(".xml"):
-            #print(os.path.join("autoCompletions", file))
-            parse_xml_file(os.path.join("autoCompletions", file), '.validators/autoCompletion.xsd')
+            #print(os.path.join("autoCompletion", file))
+            parse_xml_file(os.path.join("autoCompletion", file), '.validators/autoCompletion.xsd')
+
+def parse_xml_files_from_functionList_dir():
+
+    for file in os.listdir("functionList"):
+        if file.endswith(".xml"):
+            #print(os.path.join("functionList", file))
+            parse_xml_file(os.path.join("functionList", file), '.validators/functionList.xsd')
 
 parse_xml_files_from_udls_dir()
-parse_xml_files_from_autoCompletions_dir()
+parse_xml_files_from_autoCompletion_dir()
+parse_xml_files_from_functionList_dir()
 
 if has_error:
     sys.exit(-2)
