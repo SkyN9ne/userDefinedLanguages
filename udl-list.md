@@ -100,6 +100,8 @@
 | [Excel formulas](./UDLs/ExcelForumlas-xlf_byDickKusleika.xml) | [Dick Kusleika](http://www.dailydoseofexcel.com/archives/2010/09/29/formula-editor-in-notepad/) | Excel formulas |
 | [ExcelFormula](./UDLs/ExcelFormula_byOlivierMarche.xml) | [OlivierMarche](https://github.com/OlivierMarche) | Excel Formulas syntax highlight |
 | [ExcelFormula_Dark](./UDLs/ExcelFormula_ThemeDark_byOlivierMarche.xml) | [OlivierMarche](https://github.com/OlivierMarche) | Excel Formulas syntax highlight (Dark theme) |
+| [EZproxy Dark](./UDLs/ezproxy_dark_byABoze.xml) | [Andy Boze](mailto:Boze.1@nd.edu) | EZproxy config.txt directives |
+| [EZproxy Light](./UDLs/ezproxy_light_byABoze.xml) | [Andy Boze](mailto:Boze.1@nd.edu) | EZproxy config.txt directives |
 | [F#](./UDLs/Fsharp_byJamesJensen.xml) | [James Jensen](mailto:badocelot@hotmail.com) | F# |
 | [Fanuc](./UDLs/Fanuc_by-mar_tech.xml) | [mar_tech](mailto:mar_tech@verizon.net) | Fanuc |
 | [FEKO](./UDLs/FEKO_byClintScarborough.xml) | [Clint Scarborough](mailto:clint@psu.edu) | FEKO |
@@ -216,6 +218,7 @@
 | [Occam2](./UDLs/Occam2_byWilliamLuitje.xml) | [William Luitje](mailto:wvluitje@yahoo.com) | Occam2 |
 | [OCI_Terraform](https://github.com/robinchatterjee/userDefinedLanguages/blob/master/UDLs/OCI_Terraform_by_robin_s_chatterjee.xml) | [Robin Saikat Chatterjee](https://github.com/robinchatterjee/userDefinedLanguages) | Terraform HCL language with Oracle CLoud Infrastructure OCI  specific  syntax highlighting |
 | [Ogre3D Overlay Script](./UDLs/Ogre3DOverlay_byMortenASteinsland.xml) | [Morten A. Steinsland](mailto:morten.a.steinsland@gmail.com) | Ogre3D Overlay Script |
+| [OMP OPAL](./UDLs/OMP_OPAL_BY_TIMPEC.xml) | https://github.com/Xummerland | OM Partners Application Language |
 | [OpenCL 1.0](./UDLs/OpenCL-v1p0_by-yash-eng.xml) | [yash-eng](mailto:yash-eng@users.sourceforge.net) | OpenCL 1.0 |
 | [Oracle PRO*C](./UDLs/PROC_V1_byArmandoHerrazDurango.xml) | [Armando Herraz Durango](mailto:arpaheni@gmail.com) | Oracle PRO*C |
 | [Oracle Web Content (formerly Stellent)](./UDLs/Oracle-UCL-iDoc_byArnoudKoot.xml) | [Arnoud Koot](mailto:arnoudkoot@hotmail.com) | Oracle Web Content (formerly Stellent) |
@@ -359,6 +362,8 @@
 | [Amiga_E](./autoCompletion/Amiga_E_bydmcoles.xml) | [dmcoles](https://github.com/dmcoles) | Amiga E syntax highlighting |
 | [Amiga_E_dark](./autoCompletion/Amiga_E_dark_bydmcoles.xml) | [dmcoles](https://github.com/dmcoles) | Amiga E syntax highlighting (dark version) |
 | [DAX](./autoCompletion/DAX_bySaschaKasper.xml) | [Sascha D. Kasper](https://sascha-kasper.com/dax-syntax-highlighting-for-notepad/) | DAX Data Visualization (Microsoft Power BI) |
+| [EZproxy Dark](./autoCompletion/ezproxy_byABoze.xml) | [Andy Boze](mailto:Boze.1@nd.edu) | EZproxy config.txt directives |
+| [EZproxy Light](./autoCompletion/ezproxy_byABoze.xml) | [Andy Boze](mailto:Boze.1@nd.edu) | EZproxy config.txt directives |
 | [Fobagraph Script LightMode](./autoCompletion/fobagraph.xml) | [HelloWorldFR](https://github.com/HelloWorldFR/) | Fobagraph Script for laser machine |
 | [INTERLIS](./autoCompletion/interlis_byStefanBurckhardt.xml) | [Stefan Burckhardt](https://geostandards-ch.github.io/doc_refhb24/#_sonderzeichen_und_reservierte_w%C3%B6rter) | Syntax Highlightin for INTERLIS |
 | [LSL](./autoCompletion/LSL_byKimpaTammas.xml) | [Kimpa Tammas](mailto:kimpa.tammas@free.fr) | Linden Script Language (dark theme version) |
@@ -375,3 +380,5 @@
 | Name | Author | Description |
 |-----|--------|-------------|
 | [LSL](./functionList/LSL_byKimpaTammas.xml) | [Kimpa Tammas](mailto:kimpa.tammas@free.fr) | Linden Script Language (dark theme version) |
+| [STL 3dObject](./functionList/STL-3dObject-ASCII.byPryrt.xml) | [Pryrt](https://github.com/pryrt/) | 3d Stereolithography ASCII file (STL) |
+| [Vim script](./functionList/Vimscript_by_rdipardo.xml) | Pryrt | User Defined Language for Vim script |

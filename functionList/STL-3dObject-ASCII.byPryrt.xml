@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- ==========================================================================\
+|
+|   To learn how to make your own language parser, please check the following
+|   link:
+|       https://npp-user-manual.org/docs/function-list/
+|
+\=========================================================================== -->
+<NotepadPlus>
+	<functionList>
+		<!-- ================================================================= [ STL ] -->
+		<!-- STL 3D Object (ASCII)                                                  -->
+		<!-- based on rules https://learnvim.irian.to/vimscript/vimscript_functions -->
+
+		<parser
+			id="stl_function"
+			displayName="STL"
+		>
+			<function
+				mainExpr="^\h*solid\h+\w+"
+			>
+				<functionName>
+					<nameExpr expr="^\h*\Ksolid\h+\w+" />
+				</functionName>
+			</function>
+		</parser>
+	</functionList>
+</NotepadPlus>
